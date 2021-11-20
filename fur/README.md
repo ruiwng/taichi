@@ -1,7 +1,7 @@
 # taichi毛发渲染
 
 ## 背景简介
-参考https://www.shadertoy.com/view/XsfGWN, 实现了毛发渲染效果
+参考https://www.shadertoy.com/view/XsfGWN, 使用ray marching方法和perlin noise，实现了毛发渲染效果。
 
 ## 效果展示
 ![fractal demo](./data/video.gif)
